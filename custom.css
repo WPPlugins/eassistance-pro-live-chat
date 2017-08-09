@@ -1,0 +1,24 @@
+#chatcode_div {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+#chatcode_div h2 {
+	margin: 10px 0 0; padding: 0;
+}
+#chatcode_div .heading {
+	font-size: 16px; font-weight: bold; color: #333333;
+}
+#chatcode_div .panel {
+	margin: 5px 0 0;
+}
+#chatcode_div td {
+}
+#chatcode_div #message {
+	margin: -10px 0 20px;
+}
+#chatcode_div .notif {
+	margin: 0 0 3px; padding: 0; font-weight: bold; color: #990000;
+}
+#chatcode_div textarea {
+	 resize: none;
+}
